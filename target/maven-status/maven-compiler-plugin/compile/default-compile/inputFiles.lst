@@ -1,0 +1,9 @@
+D:\conference-demo\src\main\java\com\actonate\conferencedemo\ConferenceDemoApplication.java
+D:\conference-demo\src\main\java\com\actonate\conferencedemo\repositories\SessionRepository.java
+D:\conference-demo\src\main\java\com\actonate\conferencedemo\repositories\SpeakerRepository.java
+D:\conference-demo\src\main\java\com\actonate\conferencedemo\controllers\HomeControllers.java
+D:\conference-demo\src\main\java\com\actonate\conferencedemo\controllers\SessionsControllers.java
+D:\conference-demo\src\main\java\com\actonate\conferencedemo\controllers\SpeakersController.java
+D:\conference-demo\src\main\java\com\actonate\conferencedemo\config\PersistanceConfiguration.java
+D:\conference-demo\src\main\java\com\actonate\conferencedemo\models\Session.java
+D:\conference-demo\src\main\java\com\actonate\conferencedemo\models\Speaker.java
